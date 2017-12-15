@@ -1,1 +1,0 @@
-Funksiya gostericilerinin meqsedi, programlasdirma dilindeki funksiyalari gosteren referans bilgisi tutmaqdir. Bu sayede gosterilmekde olan funksiya ucun yaddasda ayrilmis olan erismek ve verilmis meselenin funksiyasinin deyiskenlerine  ulasmaq mumkundur. 
